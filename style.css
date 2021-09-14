@@ -36,7 +36,6 @@ h1:hover, p:hover, h4:hover {
   border-radius:10em;
   height:15em;
   width:15em;
-  background-image: url(https://pbs.twimg.com/profile_images/529377948952834048/q9fhJEKd.jpeg);
   background-size: 100% auto;
   
   border: 2px solid #e0e0e0;
@@ -93,5 +92,5 @@ h4, h1 {
 }
 
 iframe{
-  margin-left: 12%;
+  margin-left: 52%;
 }
