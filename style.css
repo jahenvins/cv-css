@@ -30,8 +30,9 @@ h1:hover, p:hover, h4:hover {
 }
 
 .pic {
-  margin: 0 auto;
-  margin-left: 29%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   
   border-radius:10em;
   height:15em;
