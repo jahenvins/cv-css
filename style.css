@@ -31,7 +31,7 @@ h1:hover, p:hover, h4:hover {
 
 .pic {
   margin: 0 auto;
-  margin-left: 30%;
+  margin-left: 50%;
   
   border-radius:10em;
   height:15em;
@@ -92,5 +92,5 @@ h4, h1 {
 }
 
 iframe{
-  margin-left: 52%;
+  margin-left: 42%;
 }
