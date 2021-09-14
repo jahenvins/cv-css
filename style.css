@@ -31,7 +31,7 @@ h1:hover, p:hover, h4:hover {
 
 .pic {
   margin: 0 auto;
-  margin-left: 40%;
+  margin-left: 35%;
   
   border-radius:10em;
   height:15em;
@@ -90,4 +90,8 @@ h4::before, h1::before {
 h4, h1 {
   position: relative;
   font-size: 5rem;
+}
+
+iframe{
+  margin-left: 12%;
 }
